@@ -2,7 +2,7 @@
 title: "Workshop Recording: Depositing Research Data in U of T Dataverse (Borealis) (Feb. 12, 2025)"   
 layout: page  # Layout type, usually 'page' for standard pages.
 nav_order: 1  # Order in the navigation menu.
-description:  
+description:  "This page provides a video recording of a workshop on how to deposit data in U of T Dataverse."
 permalink: /  # Optional: Custom URL for the page. It will serve as the slug. For example, /home/
 created_date:  2025-04-04
 has_children: False  # Set to True if the page has sub-pages.
